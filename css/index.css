@@ -1,0 +1,68 @@
+ /*site-nav 开始*/
+ .site-nav{
+
+    height: 30px;
+    background: #F1F1F1;
+    line-height: 30px;
+
+ }
+
+ .site-nav .w{
+
+    height: 30px; 
+ }
+
+.site-nav .w .site-nav-send{
+
+    position: relative;
+    height: 30px;
+    font-size: 14px;
+    padding: 0 25px 0 10px;
+}
+
+.site-nav .w .site-nav-send:hover{
+
+    background: #fff;
+}
+
+
+.site-nav-send i{
+
+    position: absolute;
+    width: 15px;
+    height: 7px;
+    right: 8px;
+    top: 12px;
+    overflow: hidden;
+     
+
+}
+
+.site-nav-send s{
+
+    position: absolute;
+    font: 400 13px/15px simsun;
+    top: -7px;
+   
+}
+/*.site-nav-send i{
+
+    position: absolute;
+    top: 12px;
+    right: 8px;
+    /*overflow: hidden;*/
+   /* width: 15px;
+    height: 7px;*/
+    /**/
+
+/*}*/
+
+/*.site-nav-send s{*/
+
+    /*position: absolute;*/
+    /*top: -7px;*/
+    /*font: 400 13px/15px simsun;*/
+    /*display: block;
+    margin-top: -7px;*/
+/*}*/
+   
